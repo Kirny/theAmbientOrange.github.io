@@ -3,13 +3,13 @@
 	font-family: sans-serif;
 }
 
-#heading {
+#heading, p {
 	width: 800px;
 	margin: 0 auto;
 	padding-top: 30px;
 }
 
-#about_link {
+#experience_link {
 	padding-right: 15px;
 }
 
@@ -25,4 +25,12 @@ a:link, a:visited, a:hover, a:active {
 	color: #22A7F0;
 	background-color: transparent;
 	text-decoration: none;
+}
+
+h1 {
+	width: 800px;
+	margin: 0 auto;
+	padding-top: 40px;
+	font-size:200%;
+	color: #26A65B;
 }
