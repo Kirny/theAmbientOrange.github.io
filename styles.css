@@ -5,9 +5,9 @@
 
 footer {
 	margin: 0 auto;
-	position:absolute;
+	position: absolute;
     left: 0px;
-    right:0px;
+    right: 0px;
     bottom: 0px;
     height: 35px;
     width: 800px;
@@ -33,12 +33,19 @@ footer {
 	float: right;
 }
 
-#heading, p {
+#heading, p, h1, h2, h3 {
 	width: 800px;
 	margin: 0 auto;
 	padding-top: 30px;
 	padding-bottom: 30px;
-	font-size: 145%;	
+	font-size: 145%;
+}
+
+ul {
+	width: 800px;
+	margin: 0 auto;
+	padding-bottom: 15px;
+	font-size: 100%;
 }
 
 #experience_link {
@@ -64,12 +71,4 @@ a:link, a:visited, a:hover, a:active {
 	color: #22A7F0;
 	background-color: transparent;
 	text-decoration: none;
-}
-
-h1 {
-	width: 800px;
-	margin: 0 auto;
-	padding-top: 40px;
-	font-size:200%;
-	color: #26A65B;
 }
