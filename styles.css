@@ -67,8 +67,14 @@ ul {
 	float: left;
 }
 
-a:link, a:visited, a:hover, a:active {
+a:link, a:visited, a:active {
 	color: #22A7F0;
 	background-color: transparent;
 	text-decoration: none;
+}
+
+a:hover {
+	color: #22A7F0;
+	background-color: transparent;
+	text-decoration: underline;	
 }
