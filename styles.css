@@ -3,14 +3,53 @@
 	font-family: sans-serif;
 }
 
+footer {
+	margin: 0 auto;
+	position:absolute;
+    left: 0px;
+    right:0px;
+    bottom: 0px;
+    height: 35px;
+    width: 800px;
+    background: #26C281;
+}
+
+#picture_email, #my_email, 
+#picture_phone, #my_phone,
+#picture_github_logo, #my_github {
+	vertical-align: middle;
+}
+
+#emaily {
+	float: left;
+}
+
+#phoney {
+	padding-left: 160px;
+	padding-right: 175px;
+}
+
+#githubby {
+	float: right;
+}
+
 #heading, p {
 	width: 800px;
 	margin: 0 auto;
 	padding-top: 30px;
+	padding-bottom: 30px;
+	font-size: 145%;	
 }
 
 #experience_link {
 	padding-right: 15px;
+}
+
+#picture_of_me {
+	width: 270px;
+	height: 270px;
+	float: left;
+	padding-right: 10px;
 }
 
 .right{
