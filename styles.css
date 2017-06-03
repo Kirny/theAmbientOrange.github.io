@@ -5,7 +5,7 @@
 
 footer {
 	margin: 0 auto;
-	position: absolute;
+	position: fixed;
     left: 0px;
     right: 0px;
     bottom: 0px;
@@ -33,18 +33,26 @@ footer {
 	float: right;
 }
 
-#heading, p, h1, h2, h3 {
+#heading, p {
 	width: 800px;
 	margin: 0 auto;
 	padding-top: 30px;
-	padding-bottom: 30px;
+	padding-bottom: 15px;
 	font-size: 145%;
+}
+
+h1, h2, h3 {
+	width: 800px;
+	margin: 0 auto;
+	padding-top: 15px;
+	padding-bottom: 10px;
+	font-size: 100%;
 }
 
 ul {
 	width: 800px;
 	margin: 0 auto;
-	padding-bottom: 15px;
+	padding-bottom: 5px;
 	font-size: 100%;
 }
 
