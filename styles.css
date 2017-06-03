@@ -1,5 +1,5 @@
 * {
-	font-size: 100%;
+	font-size: 101%;
 	font-family: sans-serif;
 }
 
@@ -12,6 +12,7 @@ footer {
     height: 35px;
     width: 800px;
     background: #26C281;
+    padding-top: 10px;
 }
 
 #picture_email, #my_email, 
