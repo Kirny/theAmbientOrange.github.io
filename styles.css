@@ -1,5 +1,4 @@
 * {
-	font-size: 101%;
 	font-family: sans-serif;
 }
 
@@ -23,15 +22,18 @@ footer {
 
 #emaily {
 	float: left;
+	font-size: 120%;
 }
 
 #phoney {
-	padding-left: 160px;
+	padding-left: 130px;
 	padding-right: 175px;
+	font-size: 120%;
 }
 
 #githubby {
 	float: right;
+	font-size: 120%;
 }
 
 #heading, p {
