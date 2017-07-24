@@ -27,12 +27,13 @@ footer {
 
 #phoney {
 	padding-left: 130px;
-	padding-right: 175px;
+	/*padding-right: 175px;*/
 	font-size: 120%;
 }
 
 #githubby {
 	float: right;
+	padding-right:4.1337px;
 	font-size: 120%;
 }
 
